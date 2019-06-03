@@ -17,8 +17,8 @@ title: Derin Ersoy Kişisel Web Sitesi.
 email: alkimderin@alkimderin.tk
 description: > # this means to ignore newlines until "baseurl:"
   Bursa Travesti Derin Ersoy Kişisel Web Sitesidir.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "https://alkimderin.github.io/"
+url: "https://alkimderin.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: bursa__pasif
 github_username:  alkimderin
 
